@@ -21,7 +21,7 @@ Hi,I'm Parikshit Narang🙌, a Backend Developer and Cloud Enthusiast. Apart fro
 
 **Talking about Personal Stuff:**
 
-- 🔭 I’m currently working as Software Engineer at <img width="22px" src="https://logowik.com/content/uploads/images/epsilon7477.jpg" />.
+- 🔭 I’m currently working as Software Engineer at <img width="50px" src="https://logowik.com/content/uploads/images/epsilon7477.jpg" />.
 - 🌱 I’m currently learning Microservices and Distributed Systems.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
