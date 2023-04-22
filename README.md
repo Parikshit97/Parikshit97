@@ -24,7 +24,7 @@ Hi,I'm Parikshit Narang🙌, a Backend Developer and Cloud Enthusiast. Apart fro
 - 🔭 I’m currently working as Software Engineer at Epsilon.
 - 🌱 I’m currently learning Microservices and Distributed Systems.
 - 💬 Ask me about anything , Would love to answer them.✌
-- 📫 How to reach me: Any of the Social-Media Platform 
+- 📫 How to reach out to me: Any of the Social-Media Platform 
 
 **Languages and Tools:**
 
