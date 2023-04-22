@@ -16,7 +16,7 @@ Hi,I'm Parikshit Narang🙌, a Backend Developer and Cloud Enthusiast. Apart fro
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 - 🔭 I’m currently working at Epsilon.
 - 🌱 I’m currently learning Microservices and Distributed Systems.
