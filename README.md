@@ -6,6 +6,9 @@
 <a href="https://www.linkedin.com/in/parikshit-narang/">
 <img align="left" alt="Parikshit Narang" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://leetcode.com/parikshit3097/">
+  <img align="left" alt="Parikshit Narang" width="22px" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+</a>
 <br />
 
 <br />
