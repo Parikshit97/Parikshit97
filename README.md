@@ -16,9 +16,6 @@
 Hi,I'm Parikshit Narang🙌, a Backend Developer and Cloud Enthusiast. Apart from that I love getting involved in Problem Solving.❤✌
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
-
-
 **Talking about Personal Stuff:**
 
 - 🌱 I’m currently learning Microservices and Distributed Systems.
